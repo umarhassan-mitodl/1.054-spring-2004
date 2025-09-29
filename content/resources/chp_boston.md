@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/4e9f99680d5648fcc7e6c02cc9898940_chp_boston.jpg
 file_size: 40692
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

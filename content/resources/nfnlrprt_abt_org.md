@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/6698ca34db38fc4285c867ed4ad13378_nfnlrprt_abt_org.pdf
 file_size: 258006
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

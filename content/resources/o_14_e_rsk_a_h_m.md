@@ -5,6 +5,8 @@ description: Outline 14. This handout contains an outline of topics covered in c
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/156b99306ce38bde0113437b706b48e7_o_14_e_rsk_a_h_m.pdf
 file_size: 50029
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
