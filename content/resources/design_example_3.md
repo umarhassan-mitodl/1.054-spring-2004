@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/0b7329ec8d7726fb6200b82a1e407750_design_example_3.pdf
 file_size: 620791
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/7733ba05d61b0d3d2769eb525a53cec5_fnl_prs_rcrd_urh.pdf
 file_size: 394812
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
